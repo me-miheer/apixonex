@@ -3,7 +3,7 @@
 @push('title','Home')
 
 @section('body')
-    <section class="row m-0 p-5" style="width: 100vw; height: 100vh; background-image: url('https://media.istockphoto.com/id/1337260312/photo/floral-seamless-pattern-multicolored-flowers-peonies-on-a-black-background.jpg?s=612x612&w=0&k=20&c=Ef__0N2pidmL7c2_6JREDaHpJ2z02oZRep-N-4v0Rug=');">
+    <section class="row m-0 p-1" style="width: 100vw; height: 100vh; background-image: url('https://media.istockphoto.com/id/1337260312/photo/floral-seamless-pattern-multicolored-flowers-peonies-on-a-black-background.jpg?s=612x612&w=0&k=20&c=Ef__0N2pidmL7c2_6JREDaHpJ2z02oZRep-N-4v0Rug=');">
         <div class="login-form bg-light p-5" style="border-radius: 12px; overflow: hidden; min-width: 400px; max-width: min-content; margin: auto;">
             <h2><b>Login</b></h2>
             <p class="mt-0 pt-0 text-secondary" style="font-size: 12px;">
